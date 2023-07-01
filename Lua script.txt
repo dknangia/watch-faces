@@ -1,0 +1,10 @@
+var_initColor = {ucolor};
+var_hourColor = 'ffffff';
+var_minColor = 'ffffff';
+
+
+
+function GenerateRandomColor ()
+var_hourColor =  var_initColor;
+var_minColor = string.reverse(var_initColor);
+end
